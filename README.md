@@ -1,1 +1,1 @@
-# web-dev-for-beginners
+# CS50’s Web Programming with Python and JavaScript
